@@ -1,4 +1,4 @@
-requests==2.24.0
+requests==2.31.0
 ta==0.5.25
 yfinance==0.1.54
 pandas==1.0.5
